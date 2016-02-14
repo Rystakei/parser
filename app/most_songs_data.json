@@ -1,0 +1,2265 @@
+[
+  {
+    "name": "Ana",
+    "count": 2,
+    "songs": [
+      "Ana Leyh",
+      "Ana Yalli Bahebbak"
+    ]
+  },
+  {
+    "name": "salam",
+    "count": 2,
+    "songs": [
+      "Ana Leyh",
+      "A7la Jaw"
+    ]
+  },
+  {
+    "name": "eayni",
+    "count": 2,
+    "songs": [
+      "Ya habib el-omr",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "mashi",
+    "count": 2,
+    "songs": [
+      "Ya habib el-omr",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "hbyby",
+    "count": 2,
+    "songs": [
+      "Ya habib el-omr",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "ela",
+    "count": 2,
+    "songs": [
+      "Meen Ghairy Ana",
+      "ya kether"
+    ]
+  },
+  {
+    "name": "u",
+    "count": 2,
+    "songs": [
+      "Meen Ghairy Ana",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "far7a",
+    "count": 2,
+    "songs": [
+      "Meen Ghairy Ana",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "anni",
+    "count": 2,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "menni",
+    "count": 2,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Ma Tegi Hena"
+    ]
+  },
+  {
+    "name": "yomen",
+    "count": 2,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Mosh Far2a Keter"
+    ]
+  },
+  {
+    "name": "kelma",
+    "count": 2,
+    "songs": [
+      "Ma Tegi Hena",
+      "Oul Tani Keda"
+    ]
+  },
+  {
+    "name": "fakrak",
+    "count": 2,
+    "songs": [
+      "Ba2a Kol Da",
+      "Oul Tani Keda"
+    ]
+  },
+  {
+    "name": "fia",
+    "count": 2,
+    "songs": [
+      "Ba2a Kol Da",
+      "Bel Hadawa"
+    ]
+  },
+  {
+    "name": "yaani",
+    "count": 2,
+    "songs": [
+      "Ba2a Kol Da",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "tol",
+    "count": 2,
+    "songs": [
+      "Ba2a Kol Da",
+      "Mosh Far2a Keter"
+    ]
+  },
+  {
+    "name": "3aref",
+    "count": 2,
+    "songs": [
+      "ya kether",
+      "ok"
+    ]
+  },
+  {
+    "name": "omri",
+    "count": 2,
+    "songs": [
+      "Men El Yawm",
+      "A7la Jaw"
+    ]
+  },
+  {
+    "name": "mama",
+    "count": 2,
+    "songs": [
+      "حضري لعبك",
+      "Eid Milad - عيد ميلاد"
+    ]
+  },
+  {
+    "name": "7assayt",
+    "count": 2,
+    "songs": [
+      "حضري لعبك",
+      "Yay, se7r 3oyouno"
+    ]
+  },
+  {
+    "name": "ta",
+    "count": 2,
+    "songs": [
+      "حضري لعبك",
+      "Haderi La3bek - حضري لعبك"
+    ]
+  },
+  {
+    "name": "metel",
+    "count": 2,
+    "songs": [
+      "حضري لعبك",
+      "Haderi La3bek - حضري لعبك"
+    ]
+  },
+  {
+    "name": "hayati",
+    "count": 2,
+    "songs": [
+      "Lawn 3younak - لون عيونك",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "ent",
+    "count": 2,
+    "songs": [
+      "ok",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "nas",
+    "count": 2,
+    "songs": [
+      "ok",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "hawa",
+    "count": 2,
+    "songs": [
+      "ok",
+      "Oul Tani Keda"
+    ]
+  },
+  {
+    "name": "wallah",
+    "count": 2,
+    "songs": [
+      "ok",
+      "A7la Jaw"
+    ]
+  },
+  {
+    "name": "khalas",
+    "count": 2,
+    "songs": [
+      "Mo3gaba",
+      "Ma2soma nossen"
+    ]
+  },
+  {
+    "name": "hafakkar",
+    "count": 2,
+    "songs": [
+      "Oul Tani Keda",
+      "Wana ben edek"
+    ]
+  },
+  {
+    "name": "kont",
+    "count": 2,
+    "songs": [
+      "Oul Tani Keda",
+      "Mosh Far2a Keter"
+    ]
+  },
+  {
+    "name": "ally",
+    "count": 2,
+    "songs": [
+      "Ma2soma nossen",
+      "مش فارقة كتير"
+    ]
+  },
+  {
+    "name": "ليه",
+    "count": 2,
+    "songs": [
+      "Ro7y ma3ak",
+      "baya w shater "
+    ]
+  },
+  {
+    "name": "ghayri",
+    "count": 2,
+    "songs": [
+      "Byesal Albi",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "dam",
+    "count": 2,
+    "songs": [
+      "Byesal Albi",
+      "El Hob Teir"
+    ]
+  },
+  {
+    "name": "fik",
+    "count": 2,
+    "songs": [
+      "Byesal Albi",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "اسهر",
+    "count": 2,
+    "songs": [
+      "يا سلام",
+      "سهرنى سهر"
+    ]
+  },
+  {
+    "name": "مُشْ",
+    "count": 2,
+    "songs": [
+      "Zaman Kan 3andy 2alb",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "wa2t",
+    "count": 2,
+    "songs": [
+      "Betffakar Fi Eih?",
+      "Ah W Noss ( آه و نص )"
+    ]
+  },
+  {
+    "name": "'ayuh",
+    "count": 2,
+    "songs": [
+      "مش فارقة كتير",
+      "El Hob Teir"
+    ]
+  },
+  {
+    "name": "kunt",
+    "count": 2,
+    "songs": [
+      "مش فارقة كتير",
+      "Wana ben edek"
+    ]
+  },
+  {
+    "name": "hwa",
+    "count": 2,
+    "songs": [
+      "Ana Yalli Bahebbak",
+      "Mosh Far2a Keter"
+    ]
+  },
+  {
+    "name": "akbar",
+    "count": 2,
+    "songs": [
+      "Wana ben edek",
+      "Haderi La3bek - حضري لعبك"
+    ]
+  },
+  {
+    "name": "Hob",
+    "count": 2,
+    "songs": [
+      "El Hob Teir",
+      "We Bakon Gay Awda3k"
+    ]
+  },
+  {
+    "name": "'ayam",
+    "count": 2,
+    "songs": [
+      "El Hob Teir",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "li",
+    "count": 2,
+    "songs": [
+      "El Hob Teir",
+      "Sheikh El Shabab - شيخ الشباب"
+    ]
+  },
+  {
+    "name": "وانت",
+    "count": 2,
+    "songs": [
+      "baya w shater ",
+      "Leya 7a2"
+    ]
+  },
+  {
+    "name": "yana",
+    "count": 2,
+    "songs": [
+      "Yalla",
+      "Ah W Noss ( آه و نص )"
+    ]
+  },
+  {
+    "name": "تبقى",
+    "count": 2,
+    "songs": [
+      "Ashkarabally",
+      "لمسة ايد"
+    ]
+  },
+  {
+    "name": "ومن",
+    "count": 2,
+    "songs": [
+      "سهرنى سهر",
+      "مَاشِي حَدِّي"
+    ]
+  },
+  {
+    "name": "حاجة",
+    "count": 2,
+    "songs": [
+      "Eftah Elbek Tefrah",
+      "Leya 7a2"
+    ]
+  },
+  {
+    "name": "wayak",
+    "count": 2,
+    "songs": [
+      "Shakhbat Shakhabit ",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "روحى",
+    "count": 2,
+    "songs": [
+      "لمسة ايد",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "3ainayye",
+    "count": 2,
+    "songs": [
+      "Habib El Omr - حبيب العمر",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "ghayar",
+    "count": 3,
+    "songs": [
+      "Ana Leyh",
+      "El Donya Helwa - الدنيا حلوة"
+    ]
+  },
+  {
+    "name": "feek",
+    "count": 3,
+    "songs": [
+      "Ana Leyh",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "rah",
+    "count": 3,
+    "songs": [
+      "Ya habib el-omr",
+      "El Hob Teir"
+    ]
+  },
+  {
+    "name": "shw",
+    "count": 3,
+    "songs": [
+      "Ya habib el-omr",
+      "Maa'-oul El Gharam - (معقول الغرام‬)"
+    ]
+  },
+  {
+    "name": "kl",
+    "count": 3,
+    "songs": [
+      "Ya habib el-omr",
+      "El Hob Teir",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "ra7",
+    "count": 3,
+    "songs": [
+      "El Donya Helwa - الدنيا حلوة",
+      "Sheikh El Shabab - شيخ الشباب"
+    ]
+  },
+  {
+    "name": "meen",
+    "count": 3,
+    "songs": [
+      "Meen Ghairy Ana",
+      "Oul Tani Keda",
+      "بنغني للحياة"
+    ]
+  },
+  {
+    "name": "yama",
+    "count": 3,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Ba2a Kol Da"
+    ]
+  },
+  {
+    "name": "aktar",
+    "count": 3,
+    "songs": [
+      "Ma Tegi Hena",
+      "Wana ben edek"
+    ]
+  },
+  {
+    "name": "wenta",
+    "count": 3,
+    "songs": [
+      "Ma Tegi Hena",
+      "Ba2a Kol Da",
+      "Aadi - عادي"
+    ]
+  },
+  {
+    "name": "bel",
+    "count": 3,
+    "songs": [
+      "Ma Tegi Hena",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "aala",
+    "count": 3,
+    "songs": [
+      "Ba2a Kol Da",
+      "Men El Yawm"
+    ]
+  },
+  {
+    "name": "layali",
+    "count": 3,
+    "songs": [
+      "Ba2a Kol Da",
+      "ok"
+    ]
+  },
+  {
+    "name": "yom",
+    "count": 3,
+    "songs": [
+      "Ba2a Kol Da",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "di",
+    "count": 3,
+    "songs": [
+      "Ba2a Kol Da",
+      "Ma2soma nossen",
+      "Bel Hadawa"
+    ]
+  },
+  {
+    "name": "lamsat",
+    "count": 3,
+    "songs": [
+      "ya kether",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "enak",
+    "count": 3,
+    "songs": [
+      "ya kether",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "wili",
+    "count": 3,
+    "songs": [
+      "ya kether",
+      "Ta3alaa Ya"
+    ]
+  },
+  {
+    "name": "ma3ak",
+    "count": 3,
+    "songs": [
+      "ok",
+      "Wana ben edek",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "kam",
+    "count": 3,
+    "songs": [
+      "ok",
+      "Mosh Far2a Keter",
+      "Ah W Noss ( آه و نص )"
+    ]
+  },
+  {
+    "name": "youm",
+    "count": 3,
+    "songs": [
+      "ok",
+      "یا سی سید",
+      "Mosh Far2a Keter"
+    ]
+  },
+  {
+    "name": "-",
+    "count": 3,
+    "songs": [
+      "Oul Tani Keda",
+      "Sabrak Ya Albi"
+    ]
+  },
+  {
+    "name": "ba3dak",
+    "count": 3,
+    "songs": [
+      "Ya Ghali",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "zy",
+    "count": 3,
+    "songs": [
+      "Ma2soma nossen",
+      "مش فارقة كتير"
+    ]
+  },
+  {
+    "name": "katir",
+    "count": 3,
+    "songs": [
+      "Ma2soma nossen",
+      "مش فارقة كتير",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "ealaa",
+    "count": 3,
+    "songs": [
+      "Ma2soma nossen",
+      "Bel Hadawa"
+    ]
+  },
+  {
+    "name": "حبك",
+    "count": 3,
+    "songs": [
+      "Ro7y ma3ak",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": ",",
+    "count": 3,
+    "songs": [
+      "Ro7y ma3ak",
+      "Sheikh El Shabab - شيخ الشباب"
+    ]
+  },
+  {
+    "name": "'inni",
+    "count": 3,
+    "songs": [
+      "Byesal Albi",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "lih",
+    "count": 3,
+    "songs": [
+      "Bel Hadawa",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "bs",
+    "count": 3,
+    "songs": [
+      "Bel Hadawa",
+      "مش فارقة كتير",
+      "Mosh Far2a Keter"
+    ]
+  },
+  {
+    "name": "سلم",
+    "count": 3,
+    "songs": [
+      "يا سلام",
+      "Meen da elli nisik?"
+    ]
+  },
+  {
+    "name": "قوام",
+    "count": 3,
+    "songs": [
+      "يا سلام",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "وَانَا",
+    "count": 3,
+    "songs": [
+      "Zaman Kan 3andy 2alb",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "مِنْ",
+    "count": 3,
+    "songs": [
+      "Zaman Kan 3andy 2alb",
+      "hkayat el deni",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "kelme",
+    "count": 3,
+    "songs": [
+      "Betffakar Fi Eih?",
+      "Ehsas Jdeed"
+    ]
+  },
+  {
+    "name": "ву",
+    "count": 3,
+    "songs": [
+      "hkayat el deni",
+      "Zaman Kan 3andy 2alb",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "mafish",
+    "count": 3,
+    "songs": [
+      "Papa Porto",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "shams",
+    "count": 3,
+    "songs": [
+      "Papa Porto",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "mn",
+    "count": 3,
+    "songs": [
+      "Mosh Far2a Keter",
+      "بنغني للحياة"
+    ]
+  },
+  {
+    "name": "фи",
+    "count": 3,
+    "songs": [
+      "Wana ben edek",
+      "Zaman Kan 3andy 2alb"
+    ]
+  },
+  {
+    "name": "tayr",
+    "count": 3,
+    "songs": [
+      "El Hob Teir",
+      "Maa'-oul El Gharam - (معقول الغرام‬)"
+    ]
+  },
+  {
+    "name": "لا",
+    "count": 3,
+    "songs": [
+      "baya w shater ",
+      "Eid Milad - عيد ميلاد"
+    ]
+  },
+  {
+    "name": "عليك",
+    "count": 3,
+    "songs": [
+      "baya w shater ",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "3am",
+    "count": 3,
+    "songs": [
+      "Sheikh El Shabab - شيخ الشباب",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "ва",
+    "count": 3,
+    "songs": [
+      "Yay, se7r 3oyouno",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "mafeesh",
+    "count": 3,
+    "songs": [
+      "Ah W Noss ( آه و نص )",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "ده",
+    "count": 3,
+    "songs": [
+      "Eftah Elbek Tefrah",
+      "Meen da elli nisik?"
+    ]
+  },
+  {
+    "name": "اعيش",
+    "count": 3,
+    "songs": [
+      "Meen da elli nisik?",
+      "Leya 7a2"
+    ]
+  },
+  {
+    "name": "shou",
+    "count": 4,
+    "songs": [
+      "Ana Leyh",
+      "hkayat el deni",
+      "Sheikh El Shabab - شيخ الشباب"
+    ]
+  },
+  {
+    "name": "habeebi",
+    "count": 4,
+    "songs": [
+      "Ana Leyh",
+      "A7la Jaw",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "shakl",
+    "count": 4,
+    "songs": [
+      "El Donya Helwa - الدنيا حلوة",
+      "بنغني للحياة"
+    ]
+  },
+  {
+    "name": "mush",
+    "count": 4,
+    "songs": [
+      "El Donya Helwa - الدنيا حلوة",
+      "Wana ben edek"
+    ]
+  },
+  {
+    "name": "Ma",
+    "count": 4,
+    "songs": [
+      "Meen Ghairy Ana",
+      "Ma Tegi Hena",
+      "Lawn 3younak - لون عيونك"
+    ]
+  },
+  {
+    "name": "3ashan",
+    "count": 4,
+    "songs": [
+      "Ma Tegi Hena",
+      "Sabrak Ya Albi"
+    ]
+  },
+  {
+    "name": "fil",
+    "count": 4,
+    "songs": [
+      "Ma Tegi Hena",
+      "ok",
+      "Oul Tani Keda"
+    ]
+  },
+  {
+    "name": "fel",
+    "count": 4,
+    "songs": [
+      "Ba2a Kol Da",
+      "Papa Porto",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "El",
+    "count": 4,
+    "songs": [
+      "Sabrak Ya Albi",
+      "hkayat el deni",
+      "El Hob Teir",
+      "Maa'-oul El Gharam - (معقول الغرام‬)"
+    ]
+  },
+  {
+    "name": "كتر",
+    "count": 4,
+    "songs": [
+      "Ro7y ma3ak",
+      "سهرنى سهر"
+    ]
+  },
+  {
+    "name": "بقول",
+    "count": 4,
+    "songs": [
+      "يا سلام",
+      "Meen da elli nisik?"
+    ]
+  },
+  {
+    "name": "baddi",
+    "count": 4,
+    "songs": [
+      "Naam Be Alby",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "كل",
+    "count": 4,
+    "songs": [
+      "Moudhesh",
+      "Eid Milad - عيد ميلاد"
+    ]
+  },
+  {
+    "name": "لو",
+    "count": 4,
+    "songs": [
+      "Moudhesh",
+      "Meen da elli nisik?",
+      "مَاشِي حَدِّي"
+    ]
+  },
+  {
+    "name": "اقدر",
+    "count": 4,
+    "songs": [
+      "Ashkarabally",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "لسه",
+    "count": 4,
+    "songs": [
+      "سهرنى سهر",
+      "Meen da elli nisik?",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "lama",
+    "count": 5,
+    "songs": [
+      "Ana Leyh",
+      "Eid Milad - عيد ميلاد"
+    ]
+  },
+  {
+    "name": "bena",
+    "count": 5,
+    "songs": [
+      "Ana Leyh",
+      "Betffakar Fi Eih?"
+    ]
+  },
+  {
+    "name": "habibi",
+    "count": 5,
+    "songs": [
+      "Ya habib el-omr",
+      "Papa Porto",
+      "Naam Be Alby",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "'inna",
+    "count": 5,
+    "songs": [
+      "Ya habib el-omr",
+      "Ma2soma nossen",
+      "مش فارقة كتير"
+    ]
+  },
+  {
+    "name": "nass",
+    "count": 5,
+    "songs": [
+      "El Donya Helwa - الدنيا حلوة",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "kent",
+    "count": 5,
+    "songs": [
+      "Meen Ghairy Ana",
+      "A7la Jaw"
+    ]
+  },
+  {
+    "name": "hebbak",
+    "count": 5,
+    "songs": [
+      "Ma Tegi Hena",
+      "Ya Ghali"
+    ]
+  },
+  {
+    "name": "3younak",
+    "count": 5,
+    "songs": [
+      "Lawn 3younak - لون عيونك",
+      "Ehsas Jdeed"
+    ]
+  },
+  {
+    "name": "oul",
+    "count": 5,
+    "songs": [
+      "ok",
+      "Oul Tani Keda"
+    ]
+  },
+  {
+    "name": "ba2a",
+    "count": 5,
+    "songs": [
+      "Mo3gaba",
+      "Ah W Noss ( آه و نص )"
+    ]
+  },
+  {
+    "name": "kalam",
+    "count": 5,
+    "songs": [
+      "Oul Tani Keda",
+      "We Bakon Gay Awda3k",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "لما",
+    "count": 5,
+    "songs": [
+      "Ro7y ma3ak",
+      "يا سلام",
+      "سهرنى سهر",
+      "لمسة ايد"
+    ]
+  },
+  {
+    "name": "الدنيا",
+    "count": 5,
+    "songs": [
+      "Ro7y ma3ak",
+      "يا سلام",
+      "Eftah Elbek Tefrah"
+    ]
+  },
+  {
+    "name": "msh",
+    "count": 5,
+    "songs": [
+      "مش فارقة كتير",
+      "Mosh Far2a Keter",
+      "El Hob Teir",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "мин",
+    "count": 5,
+    "songs": [
+      "Wana ben edek",
+      "Zaman Kan 3andy 2alb",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "“о:мри",
+    "count": 5,
+    "songs": [
+      "Wana ben edek",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "му:щ",
+    "count": 5,
+    "songs": [
+      "Wana ben edek",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "من",
+    "count": 5,
+    "songs": [
+      "Moudhesh",
+      "سهرنى سهر",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "قلب",
+    "count": 5,
+    "songs": [
+      "سهرنى سهر",
+      "لمسة ايد"
+    ]
+  },
+  {
+    "name": "hobak",
+    "count": 6,
+    "songs": [
+      "Ana Leyh",
+      "A7la Jaw",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "tul",
+    "count": 6,
+    "songs": [
+      "Ya habib el-omr",
+      "Bel Hadawa",
+      "مش فارقة كتير",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "lo",
+    "count": 6,
+    "songs": [
+      "El Donya Helwa - الدنيا حلوة",
+      "Haderi La3bek - حضري لعبك"
+    ]
+  },
+  {
+    "name": "dah",
+    "count": 6,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Mo3gaba",
+      "Wana ben edek"
+    ]
+  },
+  {
+    "name": "3la",
+    "count": 6,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Ma Tegi Hena",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "hawak",
+    "count": 6,
+    "songs": [
+      "Ba2a Kol Da",
+      "یا سی سید",
+      "Oul Tani Keda"
+    ]
+  },
+  {
+    "name": "albo",
+    "count": 6,
+    "songs": [
+      "Mo3gaba",
+      "Yay, se7r 3oyouno",
+      "Sheikh El Shabab - شيخ الشباب"
+    ]
+  },
+  {
+    "name": "ahla",
+    "count": 6,
+    "songs": [
+      "A7la Jaw",
+      "Papa Porto",
+      "We Bakon Gay Awda3k"
+    ]
+  },
+  {
+    "name": "ah",
+    "count": 6,
+    "songs": [
+      "A7la Jaw",
+      "Ya Ghali",
+      "Ah W Noss ( آه و نص )"
+    ]
+  },
+  {
+    "name": "Enta",
+    "count": 6,
+    "songs": [
+      "Sabrak Ya Albi",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "تانى",
+    "count": 6,
+    "songs": [
+      "يا سلام",
+      "سهرنى سهر",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "lela",
+    "count": 6,
+    "songs": [
+      "Betffakar Fi Eih?",
+      "Eid Milad - عيد ميلاد"
+    ]
+  },
+  {
+    "name": "حق",
+    "count": 6,
+    "songs": [
+      "سهرنى سهر",
+      "Leya 7a2"
+    ]
+  },
+  {
+    "name": "f",
+    "count": 6,
+    "songs": [
+      "Badaa Aleik",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "fey",
+    "count": 7,
+    "songs": [
+      "Ana Leyh",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "3ala",
+    "count": 7,
+    "songs": [
+      "Meen Ghairy Ana",
+      "ya kether",
+      "ok",
+      "Yay, se7r 3oyouno",
+      "Ah W Noss ( آه و نص )"
+    ]
+  },
+  {
+    "name": "nos",
+    "count": 7,
+    "songs": [
+      "Meen Ghairy Ana",
+      "Ah W Noss ( آه و نص )"
+    ]
+  },
+  {
+    "name": "3omry",
+    "count": 7,
+    "songs": [
+      "Meen Ghairy Ana",
+      "Wana ben edek",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "eih",
+    "count": 7,
+    "songs": [
+      "Ba2a Kol Da",
+      "ok",
+      "Oul Tani Keda",
+      "Enta eih - انت ايه",
+      "Papa Porto"
+    ]
+  },
+  {
+    "name": "o",
+    "count": 7,
+    "songs": [
+      "ya kether",
+      "ok"
+    ]
+  },
+  {
+    "name": "sar",
+    "count": 7,
+    "songs": [
+      "Men El Yawm",
+      "حضري لعبك",
+      "Lawn 3younak - لون عيونك",
+      "Yay, se7r 3oyouno"
+    ]
+  },
+  {
+    "name": "shu",
+    "count": 7,
+    "songs": [
+      "Ya Ghali",
+      "Yay, se7r 3oyouno",
+      "Sheikh El Shabab - شيخ الشباب",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "We",
+    "count": 7,
+    "songs": [
+      "Sabrak Ya Albi",
+      "We Bakon Gay Awda3k"
+    ]
+  },
+  {
+    "name": "قلبك",
+    "count": 7,
+    "songs": [
+      "يا سلام",
+      "سهرنى سهر",
+      "Eftah Elbek Tefrah"
+    ]
+  },
+  {
+    "name": "على",
+    "count": 7,
+    "songs": [
+      "baya w shater ",
+      "Ashkarabally",
+      "Eftah Elbek Tefrah",
+      "لمسة ايد"
+    ]
+  },
+  {
+    "name": "7abibi",
+    "count": 7,
+    "songs": [
+      "Ah W Noss ( آه و نص )",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "laih",
+    "count": 8,
+    "songs": [
+      "Ana Leyh",
+      "Enta eih - انت ايه"
+    ]
+  },
+  {
+    "name": "awi",
+    "count": 8,
+    "songs": [
+      "Ana Leyh",
+      "Papa Porto"
+    ]
+  },
+  {
+    "name": "donya",
+    "count": 8,
+    "songs": [
+      "Ana Leyh",
+      "Ma Tegi Hena",
+      "Ba2a Kol Da",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "habib",
+    "count": 8,
+    "songs": [
+      "Ya habib el-omr",
+      "Ya Ghali",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "kol",
+    "count": 8,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Betffakar Fi Eih?",
+      "Eid Milad - عيد ميلاد",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "ala",
+    "count": 8,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Ta3alaa Ya",
+      "Papa Porto"
+    ]
+  },
+  {
+    "name": "mesh",
+    "count": 8,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Mo3gaba",
+      "Enta eih - انت ايه",
+      "Eid Milad - عيد ميلاد"
+    ]
+  },
+  {
+    "name": "wala",
+    "count": 8,
+    "songs": [
+      "Ba2a Kol Da",
+      "ok",
+      "Ma2soma nossen",
+      "مش فارقة كتير",
+      "Enta eih - انت ايه",
+      "El Hob Teir",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "eli",
+    "count": 8,
+    "songs": [
+      "Men El Yawm",
+      "ok",
+      "Papa Porto"
+    ]
+  },
+  {
+    "name": "leh",
+    "count": 8,
+    "songs": [
+      "یا سی سید",
+      "Mosh Far2a Keter",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "ghali",
+    "count": 8,
+    "songs": [
+      "Ya Ghali",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "يوم",
+    "count": 8,
+    "songs": [
+      "Ro7y ma3ak",
+      "سهرنى سهر",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "ولا",
+    "count": 8,
+    "songs": [
+      "يا سلام",
+      "baya w shater ",
+      "سهرنى سهر",
+      "Eftah Elbek Tefrah",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "غير",
+    "count": 8,
+    "songs": [
+      "يا سلام",
+      "Eftah Elbek Tefrah",
+      "Meen da elli nisik?",
+      "لمسة ايد"
+    ]
+  },
+  {
+    "name": "eumri",
+    "count": 8,
+    "songs": [
+      "مش فارقة كتير",
+      "El Hob Teir",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "fy",
+    "count": 8,
+    "songs": [
+      "Wana ben edek",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "ما",
+    "count": 8,
+    "songs": [
+      "Moudhesh",
+      "Ashkarabally",
+      "سهرنى سهر",
+      "Meen da elli nisik?",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "مش",
+    "count": 8,
+    "songs": [
+      "Eid Milad - عيد ميلاد",
+      "سهرنى سهر",
+      "Meen da elli nisik?",
+      "Leya 7a2"
+    ]
+  },
+  {
+    "name": "و",
+    "count": 8,
+    "songs": [
+      "Eid Milad - عيد ميلاد",
+      "Eftah Elbek Tefrah"
+    ]
+  },
+  {
+    "name": "'ant",
+    "count": 9,
+    "songs": [
+      "Ya habib el-omr",
+      "Bel Hadawa",
+      "مش فارقة كتير",
+      "El Hob Teir"
+    ]
+  },
+  {
+    "name": "elly",
+    "count": 9,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Mo3gaba",
+      "یا سی سید",
+      "Oul Tani Keda",
+      "Wana ben edek"
+    ]
+  },
+  {
+    "name": "7ob",
+    "count": 9,
+    "songs": [
+      "Mo3gaba",
+      "یا سی سید",
+      "Sheikh El Shabab - شيخ الشباب",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "leeh",
+    "count": 9,
+    "songs": [
+      "یا سی سید",
+      "Sabrak Ya Albi"
+    ]
+  },
+  {
+    "name": "'ana",
+    "count": 9,
+    "songs": [
+      "مش فارقة كتير",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "fi",
+    "count": 10,
+    "songs": [
+      "Ana Leyh",
+      "Ma Tegi Hena",
+      "ya kether",
+      "Oul Tani Keda",
+      "Betffakar Fi Eih?",
+      "مش فارقة كتير",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "Ya",
+    "count": 10,
+    "songs": [
+      "Ya habib el-omr",
+      "ya kether",
+      "یا سی سید",
+      "Sabrak Ya Albi"
+    ]
+  },
+  {
+    "name": "3al",
+    "count": 10,
+    "songs": [
+      "Meen Ghairy Ana",
+      "حضري لعبك",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "fiyi",
+    "count": 10,
+    "songs": [
+      "Men El Yawm",
+      "Lawn 3younak - لون عيونك"
+    ]
+  },
+  {
+    "name": "3omri",
+    "count": 10,
+    "songs": [
+      "Oul Tani Keda",
+      "A7la Jaw",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "elli",
+    "count": 11,
+    "songs": [
+      "El Donya Helwa - الدنيا حلوة",
+      "Betffakar Fi Eih?",
+      "Naam Be Alby",
+      "We Bakon Gay Awda3k",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "l",
+    "count": 11,
+    "songs": [
+      "حضري لعبك",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "3a",
+    "count": 11,
+    "songs": [
+      "Ya Ghali",
+      "Yay, se7r 3oyouno",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "la",
+    "count": 12,
+    "songs": [
+      "El Donya Helwa - الدنيا حلوة",
+      "Lawn 3younak - لون عيونك",
+      "A7la Jaw",
+      "Bel Hadawa",
+      "Ta3alaa Ya",
+      "Eid Milad - عيد ميلاد"
+    ]
+  },
+  {
+    "name": "bi",
+    "count": 12,
+    "songs": [
+      "Lawn 3younak - لون عيونك",
+      "Oul Tani Keda",
+      "Ya Ghali",
+      "Ta3alaa Ya",
+      "Naam Be Alby",
+      "Yalla"
+    ]
+  },
+  {
+    "name": "enta",
+    "count": 12,
+    "songs": [
+      "یا سی سید",
+      "Oul Tani Keda",
+      "A7la Jaw",
+      "بنغني للحياة",
+      "Ah W Noss ( آه و نص )",
+      "Aadi - عادي"
+    ]
+  },
+  {
+    "name": "tani",
+    "count": 12,
+    "songs": [
+      "Oul Tani Keda",
+      "Ma2soma nossen",
+      "Betffakar Fi Eih?",
+      "مش فارقة كتير",
+      "Sheikh El Shabab - شيخ الشباب"
+    ]
+  },
+  {
+    "name": "قلبى",
+    "count": 12,
+    "songs": [
+      "يا سلام",
+      "Ashkarabally",
+      "سهرنى سهر",
+      "Meen da elli nisik?",
+      "لمسة ايد"
+    ]
+  },
+  {
+    "name": "keda",
+    "count": 13,
+    "songs": [
+      "Ana Leyh",
+      "A3mel 3a2la - اعمل عاقله",
+      "یا سی سید"
+    ]
+  },
+  {
+    "name": "albak",
+    "count": 13,
+    "songs": [
+      "Ana Leyh",
+      "یا سی سید",
+      "Naam Be Alby",
+      "Ehsas Jdeed"
+    ]
+  },
+  {
+    "name": "le",
+    "count": 13,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Ta3alaa Ya"
+    ]
+  },
+  {
+    "name": "في",
+    "count": 13,
+    "songs": [
+      "Ro7y ma3ak",
+      "Moudhesh",
+      "Eid Milad - عيد ميلاد",
+      "Eftah Elbek Tefrah"
+    ]
+  },
+  {
+    "name": "مين",
+    "count": 13,
+    "songs": [
+      "يا سلام",
+      "Moudhesh",
+      "Ashkarabally",
+      "Eid Milad - عيد ميلاد",
+      "Meen da elli nisik?"
+    ]
+  },
+  {
+    "name": "kan",
+    "count": 14,
+    "songs": [
+      "Meen Ghairy Ana",
+      "ok",
+      "A7la Jaw",
+      "Enta eih - انت ايه",
+      "Shakhbat Shakhabit ",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "alby",
+    "count": 14,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Mo3gaba",
+      "یا سی سید",
+      "Yay, se7r 3oyouno",
+      "Aadi - عادي",
+      "Ehsas Jdeed"
+    ]
+  },
+  {
+    "name": "mosh",
+    "count": 14,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Ma Tegi Hena",
+      "Ba2a Kol Da",
+      "Betffakar Fi Eih?",
+      "Mosh Far2a Keter",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "qalbi",
+    "count": 14,
+    "songs": [
+      "Byesal Albi",
+      "مش فارقة كتير",
+      "El Hob Teir",
+      "Badaa Aleik"
+    ]
+  },
+  {
+    "name": "в",
+    "count": 14,
+    "songs": [
+      "Yay, se7r 3oyouno",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "wana",
+    "count": 15,
+    "songs": [
+      "Ma Tegi Hena",
+      "ok",
+      "Wana ben edek",
+      "Haderi La3bek - حضري لعبك",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "b",
+    "count": 15,
+    "songs": [
+      "Men El Yawm",
+      "حضري لعبك",
+      "A7la Jaw",
+      "Sheikh El Shabab - شيخ الشباب",
+      "Habib El Omr - حبيب العمر"
+    ]
+  },
+  {
+    "name": "فى",
+    "count": 15,
+    "songs": [
+      "يا سلام",
+      "baya w shater ",
+      "اخاصمك آه",
+      "Leya 7a2",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "albi",
+    "count": 16,
+    "songs": [
+      "Ana Leyh",
+      "El Donya Helwa - الدنيا حلوة",
+      "A3mel 3a2la - اعمل عاقله",
+      "Ba2a Kol Da",
+      "Men El Yawm",
+      "Enta eih - انت ايه",
+      "Naam Be Alby",
+      "Sheikh El Shabab - شيخ الشباب"
+    ]
+  },
+  {
+    "name": "ana\nAna",
+    "count": 17,
+    "songs": [
+      "یا سی سید",
+      "Ana Yalli Bahebbak"
+    ]
+  },
+  {
+    "name": "انا",
+    "count": 18,
+    "songs": [
+      "Ro7y ma3ak",
+      "يا سلام",
+      "سهرنى سهر",
+      "Eftah Elbek Tefrah",
+      "Meen da elli nisik?",
+      "لمسة ايد",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "law",
+    "count": 19,
+    "songs": [
+      "Ma Tegi Hena",
+      "حضري لعبك",
+      "ok",
+      "A7la Jaw",
+      "Bel Hadawa",
+      "Ta3alaa Ya",
+      "Betffakar Fi Eih?",
+      "Yay, se7r 3oyouno",
+      "Enta eih - انت ايه",
+      "Ma Aw3dak - ما اوعدك"
+    ]
+  },
+  {
+    "name": "حلو",
+    "count": 19,
+    "songs": [
+      "يا سلام",
+      "Moudhesh"
+    ]
+  },
+  {
+    "name": "be",
+    "count": 20,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "یا سی سید",
+      "Yay, se7r 3oyouno",
+      "Papa Porto",
+      "Aadi - عادي",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "يا",
+    "count": 21,
+    "songs": [
+      "يا سلام",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "انت",
+    "count": 22,
+    "songs": [
+      "Ro7y ma3ak",
+      "Ashkarabally",
+      "سهرنى سهر",
+      "اخاصمك آه",
+      "Leya 7a2",
+      "مَاشِي حَدِّي"
+    ]
+  },
+  {
+    "name": "min",
+    "count": 24,
+    "songs": [
+      "Ya habib el-omr",
+      "El Donya Helwa - الدنيا حلوة",
+      "ya kether",
+      "حضري لعبك",
+      "ok",
+      "Ma2soma nossen",
+      "Bel Hadawa",
+      "مش فارقة كتير",
+      "Haderi La3bek - حضري لعبك",
+      "El Hob Teir",
+      "Sheikh El Shabab - شيخ الشباب",
+      "We Bakon Gay Awda3k",
+      "Maa'-oul El Gharam - (معقول الغرام‬)",
+      "Emta 7ashoufak",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "ايه",
+    "count": 24,
+    "songs": [
+      "يا سلام",
+      "سهرنى سهر",
+      "Eftah Elbek Tefrah",
+      "Meen da elli nisik?"
+    ]
+  },
+  {
+    "name": "men",
+    "count": 26,
+    "songs": [
+      "Men El Yawm",
+      "حضري لعبك",
+      "Oul Tani Keda",
+      "A7la Jaw",
+      "Papa Porto",
+      "Wana ben edek",
+      "Yalla",
+      "Shakhbat Shakhabit ",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "da",
+    "count": 27,
+    "songs": [
+      "A3mel 3a2la - اعمل عاقله",
+      "Ba2a Kol Da",
+      "Mo3gaba",
+      "یا سی سید",
+      "Oul Tani Keda",
+      "Betffakar Fi Eih?",
+      "Enta eih - انت ايه",
+      "Papa Porto",
+      "Yalla",
+      "Ah W Noss ( آه و نص )",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "اللى",
+    "count": 30,
+    "songs": [
+      "يا سلام",
+      "Ashkarabally",
+      "سهرنى سهر",
+      "Meen da elli nisik?",
+      "اخاصمك آه"
+    ]
+  },
+  {
+    "name": "fe",
+    "count": 34,
+    "songs": [
+      "Ba2a Kol Da",
+      "Mo3gaba",
+      "یا سی سید",
+      "Betffakar Fi Eih?",
+      "Papa Porto",
+      "Mosh Far2a Keter",
+      "Eid Milad - عيد ميلاد",
+      "Yalla",
+      "Aadi - عادي",
+      "Shakhbat Shakhabit "
+    ]
+  },
+  {
+    "name": "ana",
+    "count": 43,
+    "songs": [
+      "Ana Leyh",
+      "El Donya Helwa - الدنيا حلوة",
+      "Meen Ghairy Ana",
+      "A3mel 3a2la - اعمل عاقله",
+      "ya kether",
+      "Men El Yawm",
+      "حضري لعبك",
+      "Mo3gaba",
+      "یا سی سید",
+      "A7la Jaw",
+      "Yay, se7r 3oyouno",
+      "Enta eih - انت ايه",
+      "Ana Yalli Bahebbak",
+      "Mosh Far2a Keter",
+      "Wana ben edek",
+      "Yalla",
+      "Aadi - عادي",
+      "Habib El Omr - حبيب العمر",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "ya",
+    "count": 57,
+    "songs": [
+      "Ana Leyh",
+      "Ya habib el-omr",
+      "El Donya Helwa - الدنيا حلوة",
+      "A3mel 3a2la - اعمل عاقله",
+      "ya kether",
+      "ok",
+      "یا سی سید",
+      "A7la Jaw",
+      "Ya Ghali",
+      "Bel Hadawa",
+      "Ta3alaa Ya",
+      "Enta eih - انت ايه",
+      "Ana Yalli Bahebbak",
+      "Naam Be Alby",
+      "Yalla",
+      "بنغني للحياة",
+      "Badaa Aleik",
+      "Shakhbat Shakhabit ",
+      "Habib El Omr - حبيب العمر",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "ma",
+    "count": 61,
+    "songs": [
+      "Ya habib el-omr",
+      "Meen Ghairy Ana",
+      "A3mel 3a2la - اعمل عاقله",
+      "Ma Tegi Hena",
+      "Ba2a Kol Da",
+      "ya kether",
+      "Lawn 3younak - لون عيونك",
+      "ok",
+      "A7la Jaw",
+      "Ya Ghali",
+      "Ma2soma nossen",
+      "Byesal Albi",
+      "Bel Hadawa",
+      "Yay, se7r 3oyouno",
+      "مش فارقة كتير",
+      "Mosh Far2a Keter",
+      "El Hob Teir",
+      "Sheikh El Shabab - شيخ الشباب",
+      "Yalla",
+      "بنغني للحياة",
+      "Badaa Aleik",
+      "Aadi - عادي",
+      "Ehsas Jdeed",
+      "Habib El Omr - حبيب العمر",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "we",
+    "count": 70,
+    "songs": [
+      "El Donya Helwa - الدنيا حلوة",
+      "A3mel 3a2la - اعمل عاقله",
+      "Ba2a Kol Da",
+      "Oul Tani Keda",
+      "Ya Ghali",
+      "Betffakar Fi Eih?",
+      "Papa Porto",
+      "Eid Milad - عيد ميلاد",
+      "Ah W Noss ( آه و نص )",
+      "Aadi - عادي",
+      "Shakhbat Shakhabit ",
+      "Ehsas Jdeed"
+    ]
+  },
+  {
+    "name": "el",
+    "count": 74,
+    "songs": [
+      "Ana Leyh",
+      "A3mel 3a2la - اعمل عاقله",
+      "Men El Yawm",
+      "Mo3gaba",
+      "یا سی سید",
+      "A7la Jaw",
+      "Ya Ghali",
+      "Betffakar Fi Eih?",
+      "Enta eih - انت ايه",
+      "Papa Porto",
+      "Ana Yalli Bahebbak",
+      "Mosh Far2a Keter",
+      "Eid Milad - عيد ميلاد",
+      "Sheikh El Shabab - شيخ الشباب",
+      "We Bakon Gay Awda3k",
+      "Yalla",
+      "Aadi - عادي",
+      "Shakhbat Shakhabit ",
+      "Ehsas Jdeed",
+      "Habib El Omr - حبيب العمر",
+      "Emta 7ashoufak"
+    ]
+  },
+  {
+    "name": "w",
+    "count": 146,
+    "songs": [
+      "Ana Leyh",
+      "A3mel 3a2la - اعمل عاقله",
+      "Ma Tegi Hena",
+      "Ba2a Kol Da",
+      "Men El Yawm",
+      "حضري لعبك",
+      "Lawn 3younak - لون عيونك",
+      "Mo3gaba",
+      "یا سی سید",
+      "A7la Jaw",
+      "Bel Hadawa",
+      "Yay, se7r 3oyouno",
+      "hkayat el deni",
+      "Enta eih - انت ايه",
+      "Papa Porto",
+      "Ana Yalli Bahebbak",
+      "Mosh Far2a Keter",
+      "Wana ben edek",
+      "Naam Be Alby",
+      "Sheikh El Shabab - شيخ الشباب",
+      "Yalla",
+      "بنغني للحياة",
+      "Maa'-oul El Gharam - (معقول الغرام‬)",
+      "Habib El Omr - حبيب العمر",
+      "Emta 7ashoufak",
+      "Awal sahra"
+    ]
+  },
+  {
+    "name": "",
+    "count": 191,
+    "songs": [
+      "Ana Leyh",
+      "Ya habib el-omr",
+      "El Donya Helwa - الدنيا حلوة",
+      "Meen Ghairy Ana",
+      "A3mel 3a2la - اعمل عاقله",
+      "Ma Tegi Hena",
+      "Ba2a Kol Da",
+      "ya kether",
+      "Men El Yawm",
+      "حضري لعبك",
+      "Lawn 3younak - لون عيونك",
+      "ok",
+      "Mo3gaba",
+      "یا سی سید",
+      "Oul Tani Keda",
+      "A7la Jaw",
+      "Ya Ghali",
+      "Ma2soma nossen",
+      "Sabrak Ya Albi",
+      "Ro7y ma3ak",
+      "Byesal Albi",
+      "Bel Hadawa",
+      "Ta3alaa Ya",
+      "يا سلام",
+      "Zaman Kan 3andy 2alb",
+      "Betffakar Fi Eih?",
+      "Yay, se7r 3oyouno",
+      "مش فارقة كتير",
+      "hkayat el deni",
+      "Enta eih - انت ايه",
+      "Papa Porto",
+      "Ma Aw3dak - ما اوعدك",
+      "Ana Yalli Bahebbak",
+      "Mosh Far2a Keter",
+      "Wana ben edek",
+      "Naam Be Alby",
+      "Haderi La3bek - حضري لعبك",
+      "El Hob Teir",
+      "baya w shater ",
+      "Moudhesh",
+      "Eid Milad - عيد ميلاد",
+      "Sheikh El Shabab - شيخ الشباب",
+      "We Bakon Gay Awda3k",
+      "Yalla",
+      "Ashkarabally",
+      "بنغني للحياة",
+      "سهرنى سهر",
+      "Badaa Aleik",
+      "Ah W Noss ( آه و نص )",
+      "Aadi - عادي",
+      "Eftah Elbek Tefrah",
+      "Meen da elli nisik?",
+      "Maa'-oul El Gharam - (معقول الغرام‬)",
+      "Shakhbat Shakhabit ",
+      "لمسة ايد",
+      "Ehsas Jdeed",
+      "اخاصمك آه",
+      "Leya 7a2",
+      "Habib El Omr - حبيب العمر",
+      "Emta 7ashoufak",
+      "مَاشِي حَدِّي",
+      "Awal sahra"
+    ]
+  }
+]
